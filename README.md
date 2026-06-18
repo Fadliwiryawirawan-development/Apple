@@ -4,6 +4,8 @@ The Google Antigravity SDK is a Python SDK for building AI agents powered by
 Antigravity and Gemini. It provides a secure, scalable, and stateful
 infrastructure layer that abstracts the agentic loop, letting you focus on what
 your agent *does* rather than how it runs.
+<img width="720" height="1280" alt="FadliWiryaWirawan S Kom M S (2)" src="https://github.com/user-attachments/assets/6200dd7a-4b7d-4c21-acfb-d0229fbeb7b6" />
+<img width="720" height="1280" alt="avatar-2-2" src="https://github.com/user-attachments/assets/75f2c114-96f1-4d7b-a185-57d8314c16b5" />
 
 ## Installation
 
